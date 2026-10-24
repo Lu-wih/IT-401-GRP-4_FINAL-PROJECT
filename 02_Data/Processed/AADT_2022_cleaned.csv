@@ -1,0 +1,8 @@
+radial_and_circumferencial_roads,car_volume,puj_volume,uv_volume,taxi_volume,pub_volume,truck_volume,trailer_volume,mc_volume,tricycle_volume,total_vehicle,road_key
+c1_recto,27587,6749,756,3554,90,651,169,44687,1854,86097,c1_recto
+c2_pres_quirino_ave,68697,6,81,3963,209,3198,53,70437,973,147617,c2_pres_quirino_ave
+r1_roxas_blvd,90400,68,2461,9018,595,1077,2050,80120,290,186079,r1_roxas_blvd
+r2_taft_ave,73942,14622,7648,4923,1174,1647,164,83705,6639,194464,r2_taft_ave
+r6_magsaysay_blvd,47686,6144,917,5434,152,1644,272,64643,1612,128504,r6_magsaysay_blvd
+r9_rizal_ave,29917,7154,28,2825,26,2531,15,54799,1813,99108,r9_rizal_ave
+r10_del_pan,34415,656,43,1950,163,6051,8610,43733,2481,98102,r10_del_pan
